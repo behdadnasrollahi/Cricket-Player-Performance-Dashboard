@@ -73,6 +73,19 @@ The Power BI report and supporting project files will be added to this repositor
 ---
 
 این پروژه بخشی از مجموعه نمونه‌کارهای من در حوزه تحلیل داده است.
+
+---
+
+## 📸 Dashboard Screenshots
+
+### 1. Batting Analysis
+![Batting Analysis](batting-analysis.png)
+
+### 2. Bowling Analysis
+![Bowling Analysis](bowling-analysis.png)
+
+### 3. Fielding Analysis
+![Fielding Analysis](Fielding-analysis.png)
 Behdad Nasrollahi
 
 Aspiring Data Analyst | SQL Server | Power BI
